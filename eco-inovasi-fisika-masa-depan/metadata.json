@@ -1,8 +1,0 @@
-{
-  "name": "Eco-Inovasi Fisika Masa Depan",
-  "description": "Sebuah website edukasi interaktif untuk tugas kelompok fisika tentang inovasi solusi iklim dengan gaya bahasa santai khas anak SMA.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
